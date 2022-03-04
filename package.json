@@ -1,0 +1,22 @@
+{
+  "name": "auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgujva/branch_test.git"
+  },
+  "author": "pasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgujva/branch_test/issues"
+  },
+  "homepage": "https://github.com/pgujva/branch_test#readme"
+}
